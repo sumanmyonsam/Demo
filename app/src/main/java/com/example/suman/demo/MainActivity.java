@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {   //got user view
     EditText e1,e2;
     Button b;
     TextView t;
@@ -47,3 +47,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+
